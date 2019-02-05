@@ -1,15 +1,15 @@
 {
-  "main.css": "/static/css/main.373b912d.chunk.css",
-  "main.js": "/static/js/main.53ea6e72.chunk.js",
-  "main.js.map": "/static/js/main.53ea6e72.chunk.js.map",
-  "static/css/1.80be47db.chunk.css": "/static/css/1.80be47db.chunk.css",
-  "static/js/1.46d1cfd8.chunk.js": "/static/js/1.46d1cfd8.chunk.js",
-  "static/js/1.46d1cfd8.chunk.js.map": "/static/js/1.46d1cfd8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.373b912d.chunk.css.map": "/static/css/main.373b912d.chunk.css.map",
-  "static/css/1.80be47db.chunk.css.map": "/static/css/1.80be47db.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2e68fb4e8835c02511cfca5d2fdbd1f2.js": "/precache-manifest.2e68fb4e8835c02511cfca5d2fdbd1f2.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/ps-react-guiportooo/static/css/main.373b912d.chunk.css",
+  "main.js": "/ps-react-guiportooo/static/js/main.bb56d5fd.chunk.js",
+  "main.js.map": "/ps-react-guiportooo/static/js/main.bb56d5fd.chunk.js.map",
+  "static/css/1.80be47db.chunk.css": "/ps-react-guiportooo/static/css/1.80be47db.chunk.css",
+  "static/js/1.d4693fb4.chunk.js": "/ps-react-guiportooo/static/js/1.d4693fb4.chunk.js",
+  "static/js/1.d4693fb4.chunk.js.map": "/ps-react-guiportooo/static/js/1.d4693fb4.chunk.js.map",
+  "runtime~main.js": "/ps-react-guiportooo/static/js/runtime~main.4b777333.js",
+  "runtime~main.js.map": "/ps-react-guiportooo/static/js/runtime~main.4b777333.js.map",
+  "static/css/1.80be47db.chunk.css.map": "/ps-react-guiportooo/static/css/1.80be47db.chunk.css.map",
+  "static/css/main.373b912d.chunk.css.map": "/ps-react-guiportooo/static/css/main.373b912d.chunk.css.map",
+  "index.html": "/ps-react-guiportooo/index.html",
+  "precache-manifest.7cdb890d3f37f5dbfc4a10d7f926af9a.js": "/ps-react-guiportooo/precache-manifest.7cdb890d3f37f5dbfc4a10d7f926af9a.js",
+  "service-worker.js": "/ps-react-guiportooo/service-worker.js"
 }
